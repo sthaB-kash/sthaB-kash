@@ -19,8 +19,10 @@ Here are some ideas to get you started:
  
  <p align="center"  style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;">
   <a href="https://sthaB-kash.github.io" alt="Bikash Shrestha" title="Bikash Shrestha">
-    <img src="https://media-exp1.licdn.com/dms/image/C5103AQEjee_js80gKQ/profile-displayphoto-shrink_200_200/0/1586667682216?e=1645660800&v=beta&t=8Lb5frMAJ28Oh7sCHJzR0IxZVTjdOHhGGLvJsP4cCU8" width="100%" 
+   <kbd>
+     <img src="https://media-exp1.licdn.com/dms/image/C5103AQEjee_js80gKQ/profile-displayphoto-shrink_200_200/0/1586667682216?e=1645660800&v=beta&t=8Lb5frMAJ28Oh7sCHJzR0IxZVTjdOHhGGLvJsP4cCU8" width="100%" 
          style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;"/> 
+   </kbd>
    <!--width: 200px; height: 200px; max-width: 100%;border: 2px double red;-->
   </a>
 </p>
