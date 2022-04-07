@@ -41,9 +41,11 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 -->
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=for-the-badge&logo=postgesql)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
-<!--![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=for-the-badge&logo=docker)-->
+![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=for-the-badge&logo=docker)
 ![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
 <!--![Ant Design](https://img.shields.io/badge/-Antd-%232c3e50?style=for-the-badge&logo=ant-design)-->
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
