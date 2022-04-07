@@ -33,14 +33,17 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 ![RUBY](https://img.shields.io/badge/Ruby-Ruby%20Programming-red?style=for-the-badge&logo=ruby)
+
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
-![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
+
 <!--![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 -->
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
+![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
 
 ![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=for-the-badge&logo=postgesql)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
