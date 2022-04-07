@@ -35,6 +35,10 @@ Here are some ideas to get you started:
 ![RUBY](https://img.shields.io/badge/-Ruby%20Programming-red?style=for-the-badge&logo=ruby)
 ![Ruby on Rails](https://img.shields.io/badge/%20-Ruby%20on%20Rails-%232c3e50?style=for-the-badge&logo=ruby-on-rails)
 
+![Python](https://img.shields.io/badge/-Python-%232c3e50?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/-Django-%232c3e50?style=for-the-badge&logo=django)
+![](https://img.shields.io/badge/-Flask-%232c3e50?style=for-the-badge&logo=flask)
+
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
 
