@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies. My expertise includes Ruby, Ruby on Rails, Python, Django, Flask, PHP, Laravel, JavaScript, React.js, MySQL, Postgresql. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.</p>
 
 ## My Tech Stack
-![RUBY](https://img.shields.io/badge/Ruby-Ruby%20Programming-red?style=for-the-badge&logo=ruby)
-![Ruby on Rails](https://img.shields.io/badge/ROR-Ruby%20on%20Rails-%232c3e50?style=for-the-badge&logo=ruby-on-rails)
+![RUBY](https://img.shields.io/badge/-Ruby%20Programming-red?style=for-the-badge&logo=ruby)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-%232c3e50?style=for-the-badge&logo=ruby-on-rails)
 
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
