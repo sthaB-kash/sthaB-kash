@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies. My expertise includes Ruby, Ruby on Rails, Python, Django, Flask, PHP, Laravel, JavaScript, React.js, MySQL, Postgresql. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.</p>
 
 ## My Tech Stack
-![RUBY](https://img.shields.io/badge/Ruby-Ruby%20Programming-red)
+![RUBY](https://img.shields.io/badge/Ruby-Ruby%20Programming-red?style=for-the-badge&logo=ruby)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!--![Ant Design](https://img.shields.io/badge/-Antd-%232c3e50?style=for-the-badge&logo=ant-design)-->
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-%232c3e50?style=for-the-badge&logo=MaterialUI-darkblue)
+![MaterialUI](https://img.shields.io/badge/MUI-MaterialUI-%232cff?style=for-the-badge&logo=mui)
 
 ## Portfolio
 [www.sthabikash.com](https://www.sthabikash.com)
