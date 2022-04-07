@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 ![RUBY](https://img.shields.io/badge/Ruby-Ruby%20Programming-red?style=for-the-badge&logo=ruby)
-![Ruby on Rails](https://img.shields.io/badge/ROR-Ruby%20on%20Rails-%232c3e50?style=for-the-badge&logo=ror)
+![Ruby on Rails](https://img.shields.io/badge/ROR-Ruby%20on%20Rails-%232c3e50?style=for-the-badge&logo=ruby-on-rails)
 
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
