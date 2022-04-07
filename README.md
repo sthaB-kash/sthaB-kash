@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 
 ## My Tech Stack
 ![RUBY](https://img.shields.io/badge/Ruby-Ruby%20Programming-red?style=for-the-badge&logo=ruby)
+![Ruby on Rails](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=ror)
 
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
@@ -49,8 +50,10 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=for-the-badge&logo=docker)
-![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
+
 <!--![Ant Design](https://img.shields.io/badge/-Antd-%232c3e50?style=for-the-badge&logo=ant-design)-->
+
+![CSS](https://img.shields.io/badge/-CSS-%232c3e50?style=for-the-badge&logo=css3)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![MaterialUI](https://img.shields.io/badge/MUI-MaterialUI-%232cff?style=for-the-badge&logo=mui)
