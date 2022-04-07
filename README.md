@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
 ![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
 
-![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=for-the-badge&logo=postgesql)
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-%232c3e50?style=for-the-badge&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-%232c3e50?style=for-the-badge&logo=docker)
@@ -70,7 +70,7 @@ Here are some ideas to get you started:
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:shresthabikash2073@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Mail" width="22px" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" />
 </a>
 <a href="https://www.facebook.com/bikash.shrestha.56211497/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
