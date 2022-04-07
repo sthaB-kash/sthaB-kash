@@ -20,7 +20,8 @@ Here are some ideas to get you started:
  <p align="center"  style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;">
   <a href="https://sthaB-kash.github.io" alt="Bikash Shrestha" title="Bikash Shrestha">
    <kbd>
-     <img src="https://scontent.fktm16-1.fna.fbcdn.net/v/t39.30808-6/259977918_1570916389911843_576067029074054903_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=Vym9f4hWAlAAX-929um&_nc_ht=scontent.fktm16-1.fna&oh=00_AT8RYWo-hPNqJxoa8VoUYquGCLXe10YsCZ_kqUjBzl-ayA&oe=6254ABD0" width="100%" 
+     <img src="https://scontent.fktm16-1.fna.fbcdn.net/v/t1.6435-9/56496342_847005945636228_7024895676668444672_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=M14D7yKo74IAX-XZuVN&_nc_ht=scontent.fktm16-1.fna&oh=00_AT9agfAhfgRpc35L9BjCcHJwMTps8JVIDSg6C2qvSFxo8w&oe=627538CF" 
+          width="100%" 
          style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;"/> 
    </kbd>
    <!--width: 200px; height: 200px; max-width: 100%;border: 2px double red;-->
