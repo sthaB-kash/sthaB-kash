@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ![MaterialUI](https://img.shields.io/badge/MUI-MaterialUI-%232cff?style=for-the-badge&logo=mui)
 
 ## Portfolio
-[www.sthabikash.com.np](https://www.stha-bikash.com.np)
+[www.stha-bikash.com.np](http://www.stha-bikash.com.np)
 
 ## Reach Me
 <a href="https://www.linkedin.com/in/bikash-shrestha-90922b183/">
