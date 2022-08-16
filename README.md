@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <p align="center"  style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;">
   <a href="https://sthaB-kash.github.io" alt="Bikash Shrestha" title="Bikash Shrestha">
    <kbd>
-     <img src="http://stha-bikash.com.np/static/media/bikash.1d374129.jpg" 
+     <img src="https://avatars.githubusercontent.com/u/58836717?v=4" 
           width="100%" 
          style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;"/> 
    </kbd>
