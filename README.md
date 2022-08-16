@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  <p align="center"  style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;">
   <a href="https://sthaB-kash.github.io" alt="Bikash Shrestha" title="Bikash Shrestha">
    <kbd>
-     <img src="[https://scontent.fktm16-1.fna.fbcdn.net/v/t1.6435-9/56496342_847005945636228_7024895676668444672_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=174925&_nc_ohc=M14D7yKo74IAX-XZuVN&_nc_ht=scontent.fktm16-1.fna&oh=00_AT9agfAhfgRpc35L9BjCcHJwMTps8JVIDSg6C2qvSFxo8w&oe=627538CF](http://stha-bikash.com.np/static/media/bikash.1d374129.jpg)" 
+     <img src="[http://stha-bikash.com.np/static/media/bikash.1d374129.jpg](http://stha-bikash.com.np/static/media/bikash.1d374129.jpg)" 
           width="100%" 
          style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;"/> 
    </kbd>
