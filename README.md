@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies. My expertise includes Ruby, Ruby on Rails, Python, Django, Flask, PHP, Laravel, JavaScript, React.js, MySQL, Postgresql. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.</p>
+<p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies. My expertise includes Ruby, Ruby on Rails, Python, Django, Flask, JavaScript, React.js, MySQL, Postgresql. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.</p>
 
 ## My Tech Stack
 ![RUBY](https://img.shields.io/badge/-Ruby%20Programming-red?style=for-the-badge&logo=ruby)
@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/-Django-%232c3e50?style=for-the-badge&logo=django)
 ![](https://img.shields.io/badge/-Flask-%232c3e50?style=for-the-badge&logo=flask)
 
-![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
+<!--!![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=laravel)
 
-<!--![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
+[Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=vuedotjs)
 ![Node.js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 -->
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ![MaterialUI](https://img.shields.io/badge/MUI-MaterialUI-%232cff?style=for-the-badge&logo=mui)
 
 ## Portfolio
-[www.sthabikash.com](https://www.sthabikash.com)
+[www.sthabikash.com.np](https://www.stha-bikash.com.np)
 
 ## Reach Me
 <a href="https://www.linkedin.com/in/bikash-shrestha-90922b183/">
