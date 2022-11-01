@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 <p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies. My expertise includes Ruby, Ruby on Rails, Python, Django, Flask, JavaScript, React.js, MySQL, Postgresql. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.</p>
 
+[![@bikash's Holopin board](https://holopin.me/bikash)](https://holopin.io/@bikash)
+
 ## My Tech Stack
 ![RUBY](https://img.shields.io/badge/-Ruby%20Programming-red?style=for-the-badge&logo=ruby)
 ![Ruby on Rails](https://img.shields.io/badge/%20-Ruby%20on%20Rails-%232c3e50?style=for-the-badge&logo=ruby-on-rails)
