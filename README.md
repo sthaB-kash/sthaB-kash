@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-<p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies. My expertise includes Ruby, Ruby on Rails, Python, Django, Flask, JavaScript, React.js, MySQL, Postgresql. Additionally, I like to contribute to the open source community and have several published libraries and add-ons.</p>
+<p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies.</p>
 
 <br/>
 
