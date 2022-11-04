@@ -48,6 +48,8 @@ Here are some ideas to get you started:
  
 </div>
 
+<br/>
+
 ## Skills, Tools & Technologies
 
 #### Programming Languages
