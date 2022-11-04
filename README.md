@@ -20,10 +20,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-
 <p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies.</p>
-
-<br/>
 
 - 🔭 I’m currently working on ROR.
 
@@ -34,9 +31,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Intermediate Ruby Stuff**
 
 
-
-
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <div align="left">
  <a href="https://www.linkedin.com/in/bikash-shrestha-90922b183/">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin Bikash Shrestha"  />
