@@ -69,7 +69,7 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
 </div>
 
-#### Frontend Skills
+#### Frontend Technologies
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
  
 </div>
 
-#### Backend Skills
+#### Backend Technologies
  <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" width="52" alt="dot-net logo"  />
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" width="52" alt="redis logo"  />
 </div>
 
-#### Others
+#### Others Tools & Technologies
 <div align="left">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
