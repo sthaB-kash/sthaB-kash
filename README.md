@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Intermediate Ruby Stuff**
 
+<br/>
 
 ## Connect with me:
 <div align="left">
@@ -68,12 +69,6 @@ Here are some ideas to get you started:
 
 #### Frontend Skills
 <div align="left">
- <a href="https://www.w3.org/html/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="52" height="40"/> 
- </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="52" height="40"/> 
- </a> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -112,10 +107,12 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
 </div>
 
+###
+
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="52" alt="linkedin logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" width="52" alt="twitter logo"  /> -->
-
+<br/>
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sthaB-kash&show_icons=true&locale=en&layout=compact&theme=onedark" height="200" alt="sthaB-kash" /></p>
 
