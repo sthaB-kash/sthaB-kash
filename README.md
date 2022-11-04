@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sthaB-kash&label=Profile%20views&color=0e75b6&style=flat" alt="sthaB-kash" /> </p>
  
- <h1 align="center">Hi 👋, I'm Bikash Shrestha</h1>
+
  <p align="center"  style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;">
   <a href="https://sthaB-kash.github.io" alt="Bikash Shrestha" title="Bikash Shrestha">
    <kbd>
@@ -17,6 +17,7 @@ Here are some ideas to get you started:
    <!--width: 200px; height: 200px; max-width: 100%;border: 2px double red;-->
   </a>
 </p>
+<h1 align="center">Hi 👋, I'm Bikash Shrestha</h1>
 
 <br/>
 
