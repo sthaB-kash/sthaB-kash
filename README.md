@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies.</p>
 
-- 🔭 I’m currently working on ROR.
+- 🔭 I’m currently working on Ruby on Rails, Java(Spring Boot) and ReactJs.
 
-- 🌱 I’m currently learning **Java.**
+<!--- 🌱 I’m currently learning **Java.**-->
 
 - 👨‍💻 All of my projects are available at [https://github.com/sthaB-kash](https://github.com/sthaB-kash)
 
-- 💬 Ask me about **Intermediate Ruby Stuff**
+- 💬 Ask me about **Ruby, Java & JS Stuff**
 
 <br/>
 
