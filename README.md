@@ -1,12 +1,8 @@
 <!--
-**sthaB-kash/sthaB-kash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+     **sthaB-kash/sthaB-kash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=sthaB-kash&label=Profile%20views&color=0e75b6&style=flat" alt="sthaB-kash" /> </p>
- 
-
  <p align="center"  style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;">
   <a href="https://sthaB-kash.github.io" alt="Bikash Shrestha" title="Bikash Shrestha">
    <kbd>
@@ -14,24 +10,19 @@ Here are some ideas to get you started:
           width="100%" 
          style="width:200px; height:200px;  border-radius: 50%; border:6px double #7070e7;"/> 
    </kbd>
-   <!--width: 200px; height: 200px; max-width: 100%;border: 2px double red;-->
   </a>
 </p>
 <h1 align="center">Hi there👋, I'm Bikash Shrestha</h1>
-
 <br/>
-
 <p>Software Engineer with 4+ years of experience in designing, developing, and deploying software systems/applications. Proven track record in optimizing system performance and implementing CI/CD pipelines to accelerate deployment cycles. Adept at working in Agile environments and collaborating across functional teams to deliver scalable software on tight deadlines.</p>
 
 <!-- 🔭 I’m currently working on Ruby on Rails, Java(Spring Boot) and ReactJs.
-
-<!--- 🌱 I’m currently learning **Java.**
-
+🌱 I’m currently learning **Java.**
 - 👨‍💻 All of my projects are available at [https://github.com/sthaB-kash](https://github.com/sthaB-kash)
-
 💬 Ask me about **Ruby, Java & JS Stuff** -->
 
-<br/>
+## Portfolio
+[stha-bikash.com.np](https://www.stha-bikash.com.np)
 
 ## Connect with me:
 <div align="left">
@@ -156,9 +147,6 @@ Here are some ideas to get you started:
 ![Tailwind](https://img.shields.io/badge/-Tailwind-%232c3e50?style=for-the-badge&logo=tailwindcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![MaterialUI](https://img.shields.io/badge/MUI-MaterialUI-%232cff?style=for-the-badge&logo=mui) -->
-
-## Portfolio
-[www.stha-bikash.com.np](http://www.stha-bikash.com.np)
 
 [![@bikash's Holopin board](https://holopin.me/bikash)](https://holopin.io/@bikash)
 
