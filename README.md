@@ -17,36 +17,41 @@ Here are some ideas to get you started:
    <!--width: 200px; height: 200px; max-width: 100%;border: 2px double red;-->
   </a>
 </p>
-<h1 align="center">Hi 👋, I'm Bikash Shrestha</h1>
+<h1 align="center">Hi there👋, I'm Bikash Shrestha</h1>
 
 <br/>
 
-<p>I am a Software Developer from Nepal and currently working as a Full Stack Developer. Despite working in the frontend, I am very much enthusiastic about backtend technologies.</p>
+<p>Software Engineer with 4+ years of experience in designing, developing, and deploying software systems/applications. Proven track record in optimizing system performance and implementing CI/CD pipelines to accelerate deployment cycles. Adept at working in Agile environments and collaborating across functional teams to deliver scalable software on tight deadlines.</p>
 
-- 🔭 I’m currently working on Ruby on Rails, Java(Spring Boot) and ReactJs.
+<!-- 🔭 I’m currently working on Ruby on Rails, Java(Spring Boot) and ReactJs.
 
-<!--- 🌱 I’m currently learning **Java.**-->
+<!--- 🌱 I’m currently learning **Java.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sthaB-kash](https://github.com/sthaB-kash)
 
-- 💬 Ask me about **Ruby, Java & JS Stuff**
+💬 Ask me about **Ruby, Java & JS Stuff** -->
 
 <br/>
 
 ## Connect with me:
 <div align="left">
- <a href="https://www.linkedin.com/in/bikash-shrestha-90922b183/">
-     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin Bikash Shrestha"  />
-</a>
-<a href="mailto:shresthabikash2073@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Bikash Shrestha"  />
-</a>
-<a href="https://www.facebook.com/bikash.shrestha.56211497" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="30" alt="Bikash Shrestha"  /></a>
-<a href="https://instagram.com/bikash___shrestha" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Bikash Shrestha"  /></a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo"  />
- 
+ <a href="https://www.linkedin.com/in/bikash-shrestha-90922b183/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin Bikash Shrestha"  />
+ </a>
+ <a href="mailto:shresthabikash2073@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="Email - Bikash Shrestha"  />
+ </a>
+ <a href="https://discord.com/users/804019156995407963" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord - Bikash Shrestha"  />
+ </a>
+ <a href="https://instagram.com/bikash___shrestha" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Bikash Shrestha - Instagram"  />
+ </a>
+<!-- <a href="https://www.facebook.com/bikash.shrestha.56211497" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="30" alt="Bikash Shrestha"  /></a>
+  <!-- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"  /> -->
+<!-- <a href="https://wa.me/+9779865183709" target="_blank">
+ <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="whatsapp logo"  />
+</a> -->
 </div>
 
 <br/>
